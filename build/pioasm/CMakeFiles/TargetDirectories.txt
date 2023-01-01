@@ -1,0 +1,3 @@
+/home/michael/Project/RTOS_Demo/build/pioasm/CMakeFiles/pioasm.dir
+/home/michael/Project/RTOS_Demo/build/pioasm/CMakeFiles/edit_cache.dir
+/home/michael/Project/RTOS_Demo/build/pioasm/CMakeFiles/rebuild_cache.dir
